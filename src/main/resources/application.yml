@@ -1,0 +1,2 @@
+github-token: ${API_TOKEN}
+pull-request-url: https://api.github.com/repos/${GITHUB_USER}/commandhub/pulls
