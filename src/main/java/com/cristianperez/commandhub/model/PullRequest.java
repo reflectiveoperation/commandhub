@@ -16,5 +16,4 @@ public class PullRequest {
     private String title;
     private String body;
 
-
 }
